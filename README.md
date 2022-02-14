@@ -35,3 +35,11 @@ Print to the console the sum of the array elements as a single integer.
 ### Output Example
 > 31
 
+
+## Branches
+
+**main:** is the main branch
+
+**develop:** is the branch where the problem solution is developed
+
+**final-solution:** is the branch where the final solution is found
